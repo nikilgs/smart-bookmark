@@ -7,7 +7,7 @@ Users can securely save, edit, and manage bookmarks with Google authentication a
 
 ## 🚀 Live Demo
 
-Vercel URL: https://smart-bookmark.vercel.app
+Vercel URL: https://smart-bookmark-neon-delta.vercel.app
 
 GitHub Repo: https://github.com/nikilgs/smart-bookmark
 
@@ -58,9 +58,8 @@ Policies implemented:
 Supabase realtime subscriptions are used to automatically sync bookmark changes across multiple browser tabs without refreshing.
 
 ---
+
 ## 👤 Author
 
 Nikil G S  
 GitHub: https://github.com/nikilgs
-
-
